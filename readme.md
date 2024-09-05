@@ -1,1 +1,1 @@
-[![Shdwmere's GitHub stats](https://github-readme-stats.vercel.app/api?username=shdwmere)](https://github.com/shdwmere/github-readme-stats)
+[![Shdwmere's GitHub stats](https://github-readme-stats.vercel.app/api?username=shdwmere&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
